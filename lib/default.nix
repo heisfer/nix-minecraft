@@ -84,11 +84,14 @@ rec {
 
   # Get all files from a path (e.g. a modpack derivation) and return them in the
   # format expected by the files/symlinks module options.
-  collectFiles = let
-    mapListToAttrs = fn: fv: list:
-      lib.listToAttrs (map (x: nameValuePair (fn x) (fv x)) list);
-  in path:
+  collectFiles =
+    let
+      mapListToAttrs = fn: fv: list:
+        lib.listToAttrs (map (x: nameValuePair (fn x) (fv x)) list);
+    in
+    path:
     mapListToAttrs
-    (x: builtins.unsafeDiscardStringContext (lib.removePrefix "${path}/" x))
-    (lib.id) (lib.filesystem.listFilesRecursive "${path}");
+      (x: builtins.unsafeDiscardStringContext (lib.removePrefix "${path}/" x))
+      (lib.id)
+      (lib.filesystem.listFilesRecursive "${path}");
 })

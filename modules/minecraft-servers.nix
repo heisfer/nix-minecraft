@@ -43,7 +43,7 @@ let
     else error;
 
   txtList =
-    { }:
+    {}:
     {
       type = with lib.types; listOf str;
       generate = name: value: pkgs.writeText name (lib.concatStringsSep "\n" value);
