@@ -8,6 +8,7 @@
   url,
   sha256,
   minecraft-server,
+  unzip,
 }:
 stdenvNoCC.mkDerivation {
   pname = "forge";
@@ -15,11 +16,22 @@ stdenvNoCC.mkDerivation {
 
   src = fetchurl { inherit url sha256; };
 
-  preferLocalBuild = true;
+  # preferLocalBuild = true;
+
+  nativeBuildInputs = [
+    unzip
+  ];
+  unpackPhase = ''
+    runHook preUnpack
+    unzip $src
+    runHook postUnpack
+  '';
 
   installPhase = ''
     mkdir -p $out/bin $out/lib/minecraft
-    cp -v $src $out/lib/minecraft/
+    cp -v server.jar $out/lib/minecraft/
+    cp -r -v libraries $out/lib/minecraft/
+
 
     cat > $out/bin/minecraft-server << EOF
     #!/bin/sh
@@ -28,8 +40,6 @@ stdenvNoCC.mkDerivation {
 
     chmod +x $out/bin/minecraft-server
   '';
-
-  # dontUnpack = true;
 
   passthru = {
     updateScript = ./update.py;
