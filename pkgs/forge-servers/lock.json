@@ -1,0 +1,290 @@
+{
+  "1.6.4": {
+    "9.11.1.953": {
+      "url": "https://s3.mcjars.app/forge/1.6.4/9.11.1.953/1/server.jar.zip",
+      "sha256": "93377f0e3297df932b8521fab52a7359d639e8ad55b25353dbb22188e5386fcb"
+    }
+  },
+  "1.7.2": {
+    "10.12.2.1161": {
+      "url": "https://s3.mcjars.app/forge/1.7.2/10.12.2.1161/1/server.jar.zip",
+      "sha256": "995d1fb95a6c360e14ecc893d148705663345c215726f2011a7a784447a8606e"
+    }
+  },
+  "1.7.10-pre4": {
+    "10.12.2.1149": {
+      "url": "https://s3.mcjars.app/forge/1.7.10-pre4/10.12.2.1149/1/server.jar.zip",
+      "sha256": "923665f06588cff5003dce9ac15038b4feb02734a045df52d86fa07dc7cef7a4"
+    }
+  },
+  "1.7.10": {
+    "10.13.4.1614": {
+      "url": "https://s3.mcjars.app/forge/1.7.10/10.13.4.1614/1/server.jar.zip",
+      "sha256": "d442ed3059fa18b7161b3a0b87bceaac23d93efabbcdbcecb16aefe6a88ed3ab"
+    }
+  },
+  "1.8": {
+    "11.14.4.1577": {
+      "url": "https://s3.mcjars.app/forge/1.8/11.14.4.1577/1/server.jar.zip",
+      "sha256": "d620f800b673d69108abc6668a1e50235e7a68abe3eb885901cedc7bab4eff5c"
+    }
+  },
+  "1.8.8": {
+    "11.15.0.1655": {
+      "url": "https://s3.mcjars.app/forge/1.8.8/11.15.0.1655/1/server.jar.zip",
+      "sha256": "7bba4c0dabeba01b33f440dac26587464ee30a1813c6f7db4083da6d4e41ec92"
+    }
+  },
+  "1.8.9": {
+    "11.15.1.2318": {
+      "url": "https://s3.mcjars.app/forge/1.8.9/11.15.1.2318/1/server.jar.zip",
+      "sha256": "d25428768f6f9ff2192a9d7719d8a7ddd072b49eebfa1c5851e2848aff9f04ca"
+    }
+  },
+  "1.9": {
+    "12.16.1.1938": {
+      "url": "https://s3.mcjars.app/forge/1.9/12.16.1.1938/1/server.jar.zip",
+      "sha256": "174e43a39f6d22171956b57f816fe872a4a517fca2a17a9f057a5e459322732a"
+    }
+  },
+  "1.9.4": {
+    "12.17.0.2317": {
+      "url": "https://s3.mcjars.app/forge/1.9.4/12.17.0.2317/1/server.jar.zip",
+      "sha256": "8cd1a04a06e18c1a39d320ef465ca122f126cc12c30ac14cf95ca3575553953a"
+    }
+  },
+  "1.10": {
+    "12.18.0.2000": {
+      "url": "https://s3.mcjars.app/forge/1.10/12.18.0.2000/1/server.jar.zip",
+      "sha256": "9bd2c8ecf8f05fe845380008123b7933a5ce147698e31afc790ee013c1ad538a"
+    }
+  },
+  "1.10.2": {
+    "12.18.3.2511": {
+      "url": "https://s3.mcjars.app/forge/1.10.2/12.18.3.2511/1/server.jar.zip",
+      "sha256": "5ed492f3907297bac7cd907c20b540162aaae9564b97802d7234297ab8421e08"
+    }
+  },
+  "1.11": {
+    "13.19.1.2199": {
+      "url": "https://s3.mcjars.app/forge/1.11/13.19.1.2199/1/server.jar.zip",
+      "sha256": "a304394a592d2861fe199dd14d86a97a2cb89daa45e908c1e401d9f889987bcf"
+    }
+  },
+  "1.11.2": {
+    "13.20.1.2588": {
+      "url": "https://s3.mcjars.app/forge/1.11.2/13.20.1.2588/1/server.jar.zip",
+      "sha256": "caf0dd2b49c32dd0a5993296fcea7601e15262642bc541eee04bc12fdcf5c3e7"
+    }
+  },
+  "1.12": {
+    "14.21.1.2443": {
+      "url": "https://s3.mcjars.app/forge/1.12/14.21.1.2443/1/server.jar.zip",
+      "sha256": "5331733edd741935da7fe54aa09195f95334354827d6045b0bcc97e50def0d31"
+    }
+  },
+  "1.12.1": {
+    "14.22.1.2485": {
+      "url": "https://s3.mcjars.app/forge/1.12.1/14.22.1.2485/1/server.jar.zip",
+      "sha256": "11d3c64e7c777672df5566c9980dc551a79186c836207ac27b7e84fefe0cb779"
+    }
+  },
+  "1.12.2": {
+    "14.23.5.2860": {
+      "url": "https://s3.mcjars.app/forge/1.12.2/14.23.5.2860/1/server.jar.zip",
+      "sha256": "47cd89abd55612577b79292ff8a0917f5f439fc860a88c9aa0df7c990226d6e0"
+    }
+  },
+  "1.13.2": {
+    "25.0.223": {
+      "url": "https://s3.mcjars.app/forge/1.13.2/25.0.223/1/server.jar.zip",
+      "sha256": "cc0446775e72e69911385dfbf0039815cca4bbe3c1949069fb8991185fc50067"
+    }
+  },
+  "1.14.2": {
+    "26.0.63": {
+      "url": "https://s3.mcjars.app/forge/1.14.2/26.0.63/1/server.jar.zip",
+      "sha256": "aa5bb3f23b729fa3549be57eb94f316fa416ce78ed986185f0d07140ab55a356"
+    }
+  },
+  "1.14.3": {
+    "27.0.60": {
+      "url": "https://s3.mcjars.app/forge/1.14.3/27.0.60/1/server.jar.zip",
+      "sha256": "975cd21e8644d082d22809b4c71ae5c606863c09697cf6956efbdcf3743eec1d"
+    }
+  },
+  "1.14.4": {
+    "28.2.26": {
+      "url": "https://s3.mcjars.app/forge/1.14.4/28.2.26/1/server.jar.zip",
+      "sha256": "66ca01bc58c217f618a69c507c3af2cee849518b8f9c1c4c00807fe165d8ce74"
+    }
+  },
+  "1.15": {
+    "29.0.4": {
+      "url": "https://s3.mcjars.app/forge/1.15/29.0.4/1/server.jar.zip",
+      "sha256": "61934643ae703fde5ede87cefa973cf98a915e58771f3e74d568a958d9d17800"
+    }
+  },
+  "1.15.1": {
+    "30.0.51": {
+      "url": "https://s3.mcjars.app/forge/1.15.1/30.0.51/1/server.jar.zip",
+      "sha256": "40f4f753a7e242a8dfa2cc0d84a30e4b47789c162cbdad65131231878ebce92f"
+    }
+  },
+  "1.15.2": {
+    "31.2.57": {
+      "url": "https://s3.mcjars.app/forge/1.15.2/31.2.57/1/server.jar.zip",
+      "sha256": "7f3daf0542e1e81561b6d34d57c13645d0d1f1b47dbd5044c3a9dcce50ea1c67"
+    }
+  },
+  "1.16.1": {
+    "32.0.108": {
+      "url": "https://s3.mcjars.app/forge/1.16.1/32.0.108/1/server.jar.zip",
+      "sha256": "7539a2042b2c4521cc573a0bfdc2c50967f411d32f55f570fedb9ba706535a24"
+    }
+  },
+  "1.16.2": {
+    "33.0.61": {
+      "url": "https://s3.mcjars.app/forge/1.16.2/33.0.61/1/server.jar.zip",
+      "sha256": "16fb5bd0af488299236de301ea5cb580f5734abcaea5d143a533744dbc8d9150"
+    }
+  },
+  "1.16.3": {
+    "34.1.42": {
+      "url": "https://s3.mcjars.app/forge/1.16.3/34.1.42/1/server.jar.zip",
+      "sha256": "2e81992291c009717332370735c1146d1be71d707155c36cece7e2ef85751fba"
+    }
+  },
+  "1.16.4": {
+    "35.1.37": {
+      "url": "https://s3.mcjars.app/forge/1.16.4/35.1.37/1/server.jar.zip",
+      "sha256": "b2d4805f8a6dd2e4281c830d9a6b759cc48364198987111a058a5a2c1ac57e8d"
+    }
+  },
+  "1.16.5": {
+    "36.2.42": {
+      "url": "https://s3.mcjars.app/forge/1.16.5/36.2.42/1/server.jar.zip",
+      "sha256": "da3f617c1ac451a859537052e4e9fc10a15dedc1395979dbc521645c8abfea51"
+    }
+  },
+  "1.17.1": {
+    "37.1.1": {
+      "url": "https://s3.mcjars.app/forge/1.17.1/37.1.1/1/server.jar.zip",
+      "sha256": "74c7ee46a267890c444d47b8c2a536e0ccd5a7d18c33325bd597280c764fe6cf"
+    }
+  },
+  "1.18": {
+    "38.0.17": {
+      "url": "https://s3.mcjars.app/forge/1.18/38.0.17/1/server.jar.zip",
+      "sha256": "d073bf290fdd97d440bd9bf76a6b3a1e533d0b89a854332250c51fb6c965f3ed"
+    }
+  },
+  "1.18.1": {
+    "39.1.2": {
+      "url": "https://s3.mcjars.app/forge/1.18.1/39.1.2/1/server.jar.zip",
+      "sha256": "80d371a7aadb6fa421752f50bdceb9b689b40d4aa27b5b25b247e462158039c3"
+    }
+  },
+  "1.18.2": {
+    "40.3.3": {
+      "url": "https://s3.mcjars.app/forge/1.18.2/40.3.3/1/server.jar.zip",
+      "sha256": "0693e600a4d308c3cd6e1e1e702f0cb9ae834f15c2bb355c76dcee40f9256ac7"
+    }
+  },
+  "1.19": {
+    "41.1.0": {
+      "url": "https://s3.mcjars.app/forge/1.19/41.1.0/1/server.jar.zip",
+      "sha256": "906fb5d327a120e9c8f8355a77c758a1054d4e9bd27a49a2702ef5a531d530e4"
+    }
+  },
+  "1.19.1": {
+    "42.0.9": {
+      "url": "https://s3.mcjars.app/forge/1.19.1/42.0.9/1/server.jar.zip",
+      "sha256": "4ce427e943f204f5e326360658bf98de574d587807cd1d66a328a5d079802039"
+    }
+  },
+  "1.19.2": {
+    "43.4.16": {
+      "url": "https://s3.mcjars.app/forge/1.19.2/43.4.16/1/server.jar.zip",
+      "sha256": "d93e850468d752ed21551c0b9bbc9031d1f9cecbddcde93f68acb0ee9e7cfeb7"
+    }
+  },
+  "1.19.3": {
+    "44.1.23": {
+      "url": "https://s3.mcjars.app/forge/1.19.3/44.1.23/1/server.jar.zip",
+      "sha256": "21895615cf7a151443cdbd8cc66c3cc28f5481255c570ae0e700426251570f1d"
+    }
+  },
+  "1.19.4": {
+    "45.3.20": {
+      "url": "https://s3.mcjars.app/forge/1.19.4/45.3.20/1/server.jar.zip",
+      "sha256": "45eb7444f67bf239f46ef5c8cc00935d992f1ed09c012d7a4739a556af7619b5"
+    }
+  },
+  "1.20": {
+    "46.0.14": {
+      "url": "https://s3.mcjars.app/forge/1.20/46.0.14/1/server.jar.zip",
+      "sha256": "bc4f238fc53d5c2aea0b20c7f5e3b93a731461a78a352ddd40fd023dc53107f7"
+    }
+  },
+  "1.20.1": {
+    "47.3.29": {
+      "url": "https://s3.mcjars.app/forge/1.20.1/47.3.29/1/server.jar.zip",
+      "sha256": "87ca5ce377d8950cda6ad399237233a3eb4467cedab2496390e3fa028c0fac43"
+    }
+  },
+  "1.20.2": {
+    "48.1.0": {
+      "url": "https://s3.mcjars.app/forge/1.20.2/48.1.0/1/server.jar.zip",
+      "sha256": "95700e3d3d090552f1b0fa8fc4981362bfa1842144d45f4cba0bea057d56bf2e"
+    }
+  },
+  "1.20.4": {
+    "49.1.29": {
+      "url": "https://s3.mcjars.app/forge/1.20.4/49.1.29/1/server.jar.zip",
+      "sha256": "37f8795bb348847536d1ed822176d10afe29a9531c57d7e1a24efd414b5671fd"
+    }
+  },
+  "1.20.6": {
+    "50.1.47": {
+      "url": "https://s3.mcjars.app/forge/1.20.6/50.1.47/1/server.jar.zip",
+      "sha256": "13398a79d33883daf37e6879bff5b316d3c4b61206aa20c0896c87112c7380b1"
+    }
+  },
+  "1.21": {
+    "51.0.33": {
+      "url": "https://s3.mcjars.app/forge/1.21/51.0.33/1/server.jar.zip",
+      "sha256": "dc5fd9f54a55c55b509de8b5323952a54e63cd4beb58c789e39c3b95c038b245"
+    }
+  },
+  "1.21.1": {
+    "52.0.53": {
+      "url": "https://s3.mcjars.app/forge/1.21.1/52.0.53/1/server.jar.zip",
+      "sha256": "4e0a4d7f2c10f3fc5cb41709503dd6e3b036aba975a083dfb1c669a106fa34df"
+    }
+  },
+  "1.21.3": {
+    "53.0.53": {
+      "url": "https://s3.mcjars.app/forge/1.21.3/53.0.53/1/server.jar.zip",
+      "sha256": "62370b4e98b1a4c167726ad396909860180c06a43b6530f25bf687c3f5b79a0e"
+    }
+  },
+  "1.21.4": {
+    "54.1.1": {
+      "url": "https://s3.mcjars.app/forge/1.21.4/54.1.1/1/server.jar.zip",
+      "sha256": "94379f2df70c739e8b7aea315ac2b2cb98e3d78e337c93df689d1d1b13bae001"
+    }
+  },
+  "1.6.2": {
+    "9.10.1.871": {
+      "url": "https://s3.mcjars.app/forge/1.6.2/9.10.1.871/1/server.jar.zip",
+      "sha256": "9e95f78d852db3ec06b1b0c67838f958af27859392eaef7878d906ff0b61514c"
+    }
+  },
+  "1.6.3": {
+    "9.11.0.878": {
+      "url": "https://s3.mcjars.app/forge/1.6.3/9.11.0.878/1/server.jar.zip",
+      "sha256": "a77e51183c9bba2d38e73fd63d2ffe0efb2bea5f4f94a7ae78ea416b30c29fed"
+    }
+  }
+}
