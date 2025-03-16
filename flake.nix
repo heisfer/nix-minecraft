@@ -43,6 +43,7 @@
           legacyFabricServers = callPackage ./pkgs/legacy-fabric-servers { inherit vanillaServers; };
           paperServers = callPackage ./pkgs/paper-servers { inherit vanillaServers; };
           velocityServers = callPackage ./pkgs/velocity-servers { };
+          geyserServer = callPackage ./pkgs/geyser-server { }; # since it's singe version only (recommended)
           minecraftServers =
             vanillaServers // fabricServers // quiltServers // legacyFabricServers // paperServers;
 
@@ -52,6 +53,7 @@
           paper-server = paperServers.paper;
           velocity-server = velocityServers.velocity;
           minecraft-server = vanilla-server;
+          geyser-server = geyserServer;
         }
         // (builtins.mapAttrs (n: v: callPackage v { }) (self.lib.rakeLeaves ./pkgs/tools));
 
@@ -114,6 +116,7 @@
             paper-server
             velocity-server
             minecraft-server
+            geyser-server
             nix-modrinth-prefetch
             ;
 
